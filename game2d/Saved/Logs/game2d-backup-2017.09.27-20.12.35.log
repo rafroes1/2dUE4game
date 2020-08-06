@@ -1,0 +1,1163 @@
+﻿Log file open, 09/26/17 19:38:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: game2d
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(225559607) SRandInit(225559607).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178631
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.26-22.38.51:935][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.26-22.38.51:936][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.26-22.38.51:945][  0]LogInit: Computer: DESKTOP-SGAQ813
+[2017.09.26-22.38.51:945][  0]LogInit: User: danie
+[2017.09.26-22.38.51:945][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.26-22.38.51:945][  0]LogInit: High frequency timer resolution =2.742182 MHz
+[2017.09.26-22.38.51:945][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.09.26-22.38.51:945][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.26-22.38.51:946][  0]LogMemory: Process Physical Memory: 284.82 MB used, 284.82 MB peak
+[2017.09.26-22.38.51:946][  0]LogMemory: Process Virtual Memory: 283.97 MB used, 283.97 MB peak
+[2017.09.26-22.38.51:946][  0]LogMemory: Physical Memory: 6218.21 MB used,  10117.13 MB free, 16335.34 MB total
+[2017.09.26-22.38.51:946][  0]LogMemory: Virtual Memory: 695.54 MB used,  10117.13 MB free, 134217728.00 MB total
+[2017.09.26-22.38.52:133][  0]LogInit: Using OS detected language (en-US).
+[2017.09.26-22.38.52:133][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.26-22.38.52:138][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.26-22.38.52:870][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.26-22.38.53:494][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.09.26-22.38.53:494][  0]LogD3D11RHI:       6046/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.26-22.38.53:496][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.26-22.38.53:496][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.26-22.38.53:496][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.26-22.38.53:503][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.26-22.38.53:503][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.26-22.38.53:503][  0]LogWindows: EnumDisplayDevices:
+[2017.09.26-22.38.53:503][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.09.26-22.38.53:503][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2017.09.26-22.38.53:503][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.09.26-22.38.53:503][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.09.26-22.38.53:503][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.26-22.38.53:503][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.09.26-22.38.53:503][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2017.09.26-22.38.53:503][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2017.09.26-22.38.53:503][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.26-22.38.54:071][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.26-22.38.54:105][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.26-22.38.54:147][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/danie/Desktop/game2d/game2d/Intermediate/Shaders/WorkingDirectory/19072/).
+[2017.09.26-22.38.54:147][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danie/AppData/Local/Temp/UnrealShaderWorkingDir/EA4CC50D466C505C0B4DF2B4ED0A6AD8/'.
+[2017.09.26-22.38.54:147][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.26-22.38.55:054][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.26-22.38.55:117][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.26-22.38.55:184][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.26-22.38.55:247][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.26-22.38.55:315][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.26-22.38.55:380][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.26-22.38.55:444][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.26-22.38.55:504][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.26-22.38.55:559][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.26-22.38.55:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.26-22.38.55:679][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.26-22.38.55:737][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.26-22.38.55:797][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.26-22.38.55:854][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.26-22.38.55:915][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.26-22.38.56:032][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.26-22.38.56:032][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.26-22.38.56:084][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.26-22.38.56:186][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.26-22.38.56:216][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.26-22.38.56:276][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.26-22.38.56:337][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.26-22.38.56:404][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.26-22.38.56:471][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.26-22.38.56:471][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.26-22.38.57:021][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.26-22.38.57:115][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/danie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.26-22.38.57:115][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.26-22.38.57:115][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/danie/Desktop/game2d/game2d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.26-22.38.57:115][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.26-22.38.57:115][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/danie/Desktop/game2d/game2d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.26-22.38.57:115][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.26-22.38.57:129][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.26-22.38.57:142][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.26-22.38.57:151][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.26-22.38.57:151][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.26-22.38.57:152][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.26-22.38.57:152][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.26-22.38.57:432][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2017.09.26-22.38.57:572][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.26-22.38.57:763][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.26-22.38.58:170][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.26-22.38.58:232][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.26-22.38.58:232][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.26-22.38.58:232][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.26-22.38.58:232][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.26-22.38.58:232][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.26-22.38.58:668][  0]LogNetVersion: game2d , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 630224248)
+[2017.09.26-22.38.58:971][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.067141 seconds
+[2017.09.26-22.38.58:978][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.26-22.38.58:978][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.26-22.38.58:978][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.26-22.38.59:060][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.26-22.39.02:751][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.26-22.39.02:795][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.26-22.39.03:618][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.26-22.39.04:152][  0]SourceControl: Source control is disabled
+[2017.09.26-22.39.04:152][  0]SourceControl: Source control is disabled
+[2017.09.26-22.39.04:217][  0]SourceControl: Source control is disabled
+[2017.09.26-22.39.04:283][  0]SourceControl: Source control is disabled
+[2017.09.26-22.39.05:025][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.26-22.39.05:342][  0]LogOcInput: OculusInput pre-init called
+[2017.09.26-22.39.05:660][  0]LogEngine: Initializing Engine...
+[2017.09.26-22.39.05:661][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.26-22.39.05:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.26-22.39.05:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.26-22.39.06:084][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.26-22.39.06:098][  0]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.39.06:121][  0]LogInit: FAudioDevice initialized.
+[2017.09.26-22.39.06:224][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/danie/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.26-22.39.06:237][  0]LogInit: Texture streaming: Enabled
+[2017.09.26-22.39.06:362][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.26-22.39.06:651][  0]LogInit: Transaction tracking system initialized
+[2017.09.26-22.39.07:065][  0]BlueprintLog: New page: Editor Load
+[2017.09.26-22.39.08:215][  0]LocalizationService: Localization service is disabled
+[2017.09.26-22.39.09:120][  0]LogConsoleResponse: Display: 
+[2017.09.26-22.39.09:336][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.26-22.39.09:336][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.26-22.39.09:336][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.26-22.39.09:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Desktop/game2d/game2d/Content/' took 0.02s
+[2017.09.26-22.39.10:707][  0]SourceControl: Source control is disabled
+[2017.09.26-22.39.10:707][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.26-22.39.10:707][  0]LightingResults: New page: Lighting Build
+[2017.09.26-22.39.10:763][  0]MapCheck: New page: Map Check
+[2017.09.26-22.39.10:763][  0]LightingResults: New page: Lighting Build
+[2017.09.26-22.39.10:939][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.26-22.39.10:946][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.26-22.39.10:957][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.26-22.39.11:058][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.079ms to complete.
+[2017.09.26-22.39.11:058][  0]LogFileHelpers: Loading map 'Template_Default' took 0.352
+[2017.09.26-22.39.11:217][  0]LogCollectionManager: Loaded 0 collections in 0.001802 seconds
+[2017.09.26-22.39.11:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Desktop/game2d/game2d/Saved/Collections/' took 0.01s
+[2017.09.26-22.39.11:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Desktop/game2d/game2d/Content/Developers/danie/Collections/' took 0.01s
+[2017.09.26-22.39.11:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/Desktop/game2d/game2d/Content/Collections/' took 0.01s
+[2017.09.26-22.39.11:319][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.26-22.39.11:327][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2386 classes and 500 folders.
+[2017.09.26-22.39.11:409][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.26-22.39.11:465][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.26-22.39.11:524][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.09.26-22.39.12:606][  0]LogSlate: Took 0.000570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.26-22.39.12:611][  0]LogSlate: Took 0.000525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.26-22.39.12:619][  0]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.26-22.39.12:724][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.game2d
+[2017.09.26-22.39.12:724][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.26-22.39.12:724][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.09.26-22.39.12:724][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.26-22.39.12:724][  0]LogTemp: BranchPath = DESKTOP-SGAQ813/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-SGAQ813/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.09.26-22.39.12:724][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\danie\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.26-22.39.12:724][  0]LogRenderer: Reallocating scene render targets to support 868x368 Format 10 NumSamples 1 (Frame:1).
+[2017.09.26-22.39.12:900][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.09.26-22.39.12:900][  0]LogLoad: (Engine Initialization) Total time: 23.65 seconds
+[2017.09.26-22.39.12:900][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.26-22.39.12:900][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.26-22.39.13:265][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.26-22.39.13:334][  0]LogRenderer: Reallocating scene render targets to support 868x388 Format 10 NumSamples 1 (Frame:3).
+[2017.09.26-22.39.13:334][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.26-22.39.13:585][  1]LogAssetRegistry: Asset discovery search completed in 16.1747 seconds
+[2017.09.26-22.39.13:587][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.26-22.39.13:587][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2017.09.26-22.39.14:243][  3]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.26-22.39.29:417][495]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: caveee (BGRA8, 355X213)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: PRESSP (BGRA8, 142X30)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: Akuji_EnemyItem (BGRA8, 645X450)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: Lava_24_X_24 (AutoDXT, 668X216)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: Stafy2 (AutoDXT, 616X816)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: MrBright (BGRA8, 737X506)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: sheet1 (AutoDXT, 256X256)
+[2017.09.26-22.39.30:308][495]LogTexture: Display: Building textures: sheet1 (BGRA8, 256X256)
+[2017.09.26-22.39.30:376][495]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.39.30:398][495]Cmd: MAP LOAD FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.26-22.39.30:398][495]LightingResults: New page: Lighting Build
+[2017.09.26-22.39.30:399][495]LoadErrors: New page: Loading map: dropblocks.umap
+[2017.09.26-22.39.30:399][495]MapCheck: New page: Map Check
+[2017.09.26-22.39.30:399][495]LightingResults: New page: Lighting Build
+[2017.09.26-22.39.30:417][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.26-22.39.30:463][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.26-22.39.30:583][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119.572ms to complete.
+[2017.09.26-22.39.30:583][495]LogFileHelpers: Loading map 'dropblocks' took 0.185
+[2017.09.26-22.39.31:281][536]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.39.31:347][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.39.31:348][536]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:39:31 PM)
+[2017.09.26-22.39.31:348][536]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.39.31:351][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003401s)
+[2017.09.26-22.39.31:352][536]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.39.31:353][536]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2017.09.26-22.39.31:353][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.004968s)
+[2017.09.26-22.39.31:371][536]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.39.31:378][536]LogInit: FAudioDevice initialized.
+[2017.09.26-22.39.31:456][536]LogLoad: Game class is 'GameModeBase'
+[2017.09.26-22.39.31:460][536]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.39.31
+[2017.09.26-22.39.31:461][536]LogWorld: Bringing up level for play took: 0.002734
+[2017.09.26-22.39.31:534][536]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.26-22.39.31:544][536]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 0.438
+[2017.09.26-22.39.31:575][536]LogRenderer: Reallocating scene render targets to support 868x676 Format 10 NumSamples 1 (Frame:1).
+[2017.09.26-22.39.31:790][547]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.31:790][547]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.32:290][577]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.32:290][577]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.32:790][607]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.32:791][607]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.33:290][637]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.33:290][637]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.33:790][667]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.33:790][667]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.34:290][697]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.34:290][697]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.34:790][727]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.34:790][727]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.35:290][757]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.35:290][757]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.35:790][787]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.35:790][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.36:790][847]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.39.36:790][847]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.39.46:487][402]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 113 classes and 0 folders.
+[2017.09.26-22.39.47:062][402]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.26-22.39.47:128][402]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.26-22.39.47:272][403]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.26-22.40.51:383][225]BlueprintLog: New page: Compile spawner
+[2017.09.26-22.40.51:989][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/spawner" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset" SILENT=true
+[2017.09.26-22.40.52:109][243]LogSavePackage: Save=85.64ms
+[2017.09.26-22.40.52:109][243]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/spawner421E97964601908D9B3D7DB900EC213C.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset'
+[2017.09.26-22.40.52:116][243]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset
+[2017.09.26-22.40.54:694][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dropblocks" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.26-22.40.54:796][397]LogSavePackage: Save=51.17ms
+[2017.09.26-22.40.54:796][397]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/dropblocks65D512A342CB3DCF01E25EB1A721864D.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap'
+[2017.09.26-22.40.54:804][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap
+[2017.09.26-22.40.54:844][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dropblocks_BuiltData" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks_BuiltData.uasset" SILENT=true
+[2017.09.26-22.40.54:888][397]LogSavePackage: Save=10.11ms
+[2017.09.26-22.40.54:888][397]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/dropblocks_BuiltData9709558E4F17F7BB7BF71886D6F4FF5E.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks_BuiltData.uasset'
+[2017.09.26-22.40.54:891][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks_BuiltData.uasset
+[2017.09.26-22.41.24:829][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/character" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/character.uasset" SILENT=true
+[2017.09.26-22.41.24:994][142]LogSavePackage: Save=130.66ms
+[2017.09.26-22.41.24:994][142]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/characterDB1188CA4EE951CE603CB981753946D1.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/character.uasset'
+[2017.09.26-22.41.24:998][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/character.uasset
+[2017.09.26-22.41.25:955][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dropblocks" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.26-22.41.26:065][198]LogSavePackage: Save=50.95ms
+[2017.09.26-22.41.26:065][198]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/dropblocks3CD16B5A41CC432CEF8B2B84F1A5FED3.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap'
+[2017.09.26-22.41.26:069][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap
+[2017.09.26-22.41.26:107][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dropblocks_BuiltData" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks_BuiltData.uasset" SILENT=true
+[2017.09.26-22.41.26:152][198]LogSavePackage: Save=7.65ms
+[2017.09.26-22.41.26:152][198]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/dropblocks_BuiltData6275B90F4ECF81A2DEF7BA9145D5CED4.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks_BuiltData.uasset'
+[2017.09.26-22.41.26:155][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks_BuiltData.uasset
+[2017.09.26-22.41.36:398][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/spawner" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset" SILENT=true
+[2017.09.26-22.41.36:515][713]LogSavePackage: Save=86.13ms
+[2017.09.26-22.41.36:515][713]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/spawnerADD6E6AA423A2D9252FC5C9A89132798.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset'
+[2017.09.26-22.41.36:519][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset
+[2017.09.26-22.41.37:999][802]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.41.38:026][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.41.38:026][802]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:41:38 PM)
+[2017.09.26-22.41.38:026][802]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.41.38:029][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002878s)
+[2017.09.26-22.41.38:030][802]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.41.38:030][802]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2017.09.26-22.41.38:031][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.004560s)
+[2017.09.26-22.41.38:057][802]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.41.38:066][802]LogInit: FAudioDevice initialized.
+[2017.09.26-22.41.38:113][802]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.41.38:117][802]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.41.38
+[2017.09.26-22.41.38:117][802]LogWorld: Bringing up level for play took: 0.003049
+[2017.09.26-22.41.38:118][802]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.41.38:119][802]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.41.38:120][802]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 1.015
+[2017.09.26-22.41.41:096][979]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.41.41:096][979]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.41:596][  9]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.41.41:597][  9]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.42:096][ 39]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.41.42:097][ 39]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.42:597][ 69]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.41.42:597][ 69]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.43:097][ 99]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.41.43:097][ 99]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.45:097][219]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.41.45:097][219]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.45:597][249]LogScript: Warning: Accessed None trying to read property gameWidget
+	spawner_C /Game/UEDPIE_0_dropblocks.dropblocks:PersistentLevel.block_spawner_308
+	Function /Game/assets/blueprints/spawner.spawner_C:spawn:04D7
+[2017.09.26-22.41.45:597][249]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.46:597][309]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.47:097][339]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.47:597][369]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.48:097][399]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.49:097][459]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.49:597][489]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.50:097][519]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.50:597][549]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.51:097][579]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.51:597][609]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.52:598][669]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.53:098][699]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.54:597][789]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.55:097][819]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.56:597][909]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.57:098][939]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.57:598][969]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.41.58:598][ 29]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.00:098][119]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.00:598][149]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.01:098][179]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.01:598][209]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.02:098][239]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.03:098][299]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.03:598][329]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.04:098][359]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.04:598][389]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.05:098][419]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.05:598][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.06:098][479]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.06:598][509]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.07:098][539]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.07:598][569]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.08:098][599]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.08:598][629]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.09:098][659]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.09:598][689]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.10:098][719]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.10:598][749]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.12:098][839]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.12:599][869]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.13:098][899]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.13:599][929]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.14:599][989]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.15:598][ 49]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.16:098][ 79]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.17:098][139]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.17:599][169]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.18:098][199]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.18:599][229]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.19:599][289]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.21:098][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.21:599][409]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.22:099][439]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.23:599][529]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.24:599][589]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.25:099][619]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.25:599][649]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.27:100][739]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.28:099][799]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.29:100][859]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.29:599][889]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.30:100][919]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.30:599][949]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.31:600][  9]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.32:100][ 39]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.32:600][ 69]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.33:100][ 99]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.33:600][129]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.34:099][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.35:600][249]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.37:100][339]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.37:600][369]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.38:109][399]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.38:609][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.39:609][489]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.40:109][519]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.41:609][609]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.42:109][639]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.42:610][669]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.43:609][729]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.44:610][789]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.47:071][929]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.42.47:095][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.42.47:095][929]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:42:47 PM)
+[2017.09.26-22.42.47:096][929]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.42.47:098][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002595s)
+[2017.09.26-22.42.47:099][929]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.42.47:099][929]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2017.09.26-22.42.47:099][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003623s)
+[2017.09.26-22.42.47:131][929]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.42.47:138][929]LogInit: FAudioDevice initialized.
+[2017.09.26-22.42.47:189][929]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.42.47:192][929]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.42.47
+[2017.09.26-22.42.47:193][929]LogWorld: Bringing up level for play took: 0.002698
+[2017.09.26-22.42.47:193][929]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.42.47:194][929]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.42.47:196][929]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 0.091
+[2017.09.26-22.42.47:983][974]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.48:484][  4]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.49:483][ 64]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.49:983][ 94]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.50:483][124]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.50:984][154]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.51:483][184]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.51:984][214]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.52:484][244]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.52:984][274]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.53:984][334]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.54:984][394]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.55:984][454]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.56:484][484]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.57:984][574]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.58:984][634]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.42.59:984][694]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.01:985][814]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.03:631][905]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.43.03:654][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.43.03:654][905]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:43:03 PM)
+[2017.09.26-22.43.03:654][905]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.43.03:657][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002898s)
+[2017.09.26-22.43.03:658][905]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.43.03:658][905]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2017.09.26-22.43.03:658][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003984s)
+[2017.09.26-22.43.03:686][905]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.43.03:693][905]LogInit: FAudioDevice initialized.
+[2017.09.26-22.43.03:746][905]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.43.03:749][905]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.43.03
+[2017.09.26-22.43.03:750][905]LogWorld: Bringing up level for play took: 0.002693
+[2017.09.26-22.43.03:750][905]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.43.03:751][905]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.43.03:753][905]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 0.647
+[2017.09.26-22.43.05:243][993]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.05:743][ 23]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.06:743][ 83]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.07:243][113]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.07:743][143]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.08:243][173]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.08:743][203]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.09:243][233]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.09:743][263]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.10:244][293]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.11:244][353]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.11:743][383]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.12:743][443]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.13:243][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.15:243][593]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.15:744][623]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.16:244][653]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.17:744][743]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.18:244][773]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.18:743][803]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.19:244][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.21:244][953]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.22:244][ 13]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.22:744][ 43]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.23:244][ 73]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.23:744][103]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.24:244][133]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.24:744][163]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.25:244][193]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.25:744][223]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.26:244][253]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.26:744][283]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.27:244][313]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.27:744][343]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.28:244][373]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.28:745][403]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.29:244][433]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.29:744][463]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.30:245][493]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.32:244][613]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.32:745][643]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.33:245][673]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.34:245][733]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.34:745][763]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.35:244][793]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.35:745][823]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.36:245][853]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.37:245][913]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.37:745][943]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.38:745][  3]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.39:745][ 63]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.40:745][123]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.41:245][153]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.41:745][183]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.42:245][213]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.43:745][303]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.44:245][333]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.44:745][363]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.45:245][393]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.45:745][423]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.48:103][557]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.43.48:126][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.43.48:126][557]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:43:48 PM)
+[2017.09.26-22.43.48:126][557]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.43.48:129][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002650s)
+[2017.09.26-22.43.48:130][557]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.43.48:130][557]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2017.09.26-22.43.48:131][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.004149s)
+[2017.09.26-22.43.48:163][557]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.43.48:173][557]LogInit: FAudioDevice initialized.
+[2017.09.26-22.43.48:221][557]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.43.48:224][557]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.43.48
+[2017.09.26-22.43.48:225][557]LogWorld: Bringing up level for play took: 0.002633
+[2017.09.26-22.43.48:225][557]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.43.48:226][557]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.43.48:228][557]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks -0.878
+[2017.09.26-22.43.49:819][651]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.50:319][681]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.50:820][711]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.51:319][741]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.51:819][771]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.52:319][801]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.52:819][831]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.53:319][861]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.53:820][891]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.55:319][981]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.55:819][ 11]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.56:319][ 41]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.56:820][ 71]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.57:320][101]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.43.58:320][161]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.46.56:223][714]BlueprintLog: New page: Compile spawner
+[2017.09.26-22.46.56:699][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/spawner" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset" SILENT=true
+[2017.09.26-22.46.56:833][725]LogSavePackage: Save=93.52ms
+[2017.09.26-22.46.56:833][725]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/spawnerBD49A01E4AE824D3C0E713A303460F05.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset'
+[2017.09.26-22.46.56:841][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/spawner.uasset
+[2017.09.26-22.46.57:670][774]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.46.57:713][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.46.57:713][774]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:46:57 PM)
+[2017.09.26-22.46.57:713][774]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.46.57:716][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002769s)
+[2017.09.26-22.46.57:717][774]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.46.57:717][774]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2017.09.26-22.46.57:717][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.004101s)
+[2017.09.26-22.46.57:746][774]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.46.57:754][774]LogInit: FAudioDevice initialized.
+[2017.09.26-22.46.57:809][774]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.46.57:812][774]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.46.57
+[2017.09.26-22.46.57:813][774]LogWorld: Bringing up level for play took: 0.003160
+[2017.09.26-22.46.57:814][774]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.46.57:816][774]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.46.57:818][774]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 0.712
+[2017.09.26-22.47.23:694][315]LogEditorViewport: Clicking on Actor (LMB): lava_C (lava)
+[2017.09.26-22.47.25:781][439]LogEditorViewport: Clicking on Actor (LMB): lava_C (lava)
+[2017.09.26-22.47.26:236][466]LogEditorViewport: Clicking on Actor (LMB): lava_C (lava)
+[2017.09.26-22.47.35:154][983]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.47.35:181][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.47.35:181][983]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:47:35 PM)
+[2017.09.26-22.47.35:181][983]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.47.35:184][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002563s)
+[2017.09.26-22.47.35:184][983]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.47.35:184][983]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2017.09.26-22.47.35:185][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003735s)
+[2017.09.26-22.47.35:212][983]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.47.35:218][983]LogInit: FAudioDevice initialized.
+[2017.09.26-22.47.35:273][983]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.47.35:276][983]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.47.35
+[2017.09.26-22.47.35:276][983]LogWorld: Bringing up level for play took: 0.002390
+[2017.09.26-22.47.35:278][983]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.47.35:281][983]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 0.176
+[2017.09.26-22.47.37:291][ 96]LogEditorViewport: Clicking on Actor (LMB): fall_block_C (fall_block12)
+[2017.09.26-22.47.42:963][417]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.47.44:061][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.47.44:129][417]LogSavePackage: Save=32.36ms
+[2017.09.26-22.47.44:129][417]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block9ADA8D0A4ECF02FBBC8AF39EFC437756.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.47.44:136][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.47.44:283][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.47.44:349][424]LogSavePackage: Save=34.43ms
+[2017.09.26-22.47.44:349][424]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_blockB9A0EF774AEC9AA6B55CB1B0EFDDA41B.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.47.44:353][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.48.11:424][ 48]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.48.13:917][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.48.13:980][131]LogSavePackage: Save=32.27ms
+[2017.09.26-22.48.13:980][131]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block31700A24465FD9FF12AB24B7BDDC7D9C.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.48.13:984][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.48.16:351][273]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.48.16:388][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.48.16:388][273]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:48:16 PM)
+[2017.09.26-22.48.16:388][273]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.48.16:392][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003386s)
+[2017.09.26-22.48.16:393][273]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.48.16:393][273]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2017.09.26-22.48.16:393][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.004939s)
+[2017.09.26-22.48.16:424][273]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.48.16:431][273]LogInit: FAudioDevice initialized.
+[2017.09.26-22.48.16:479][273]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.48.16:483][273]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.48.16
+[2017.09.26-22.48.16:483][273]LogWorld: Bringing up level for play took: 0.002816
+[2017.09.26-22.48.16:484][273]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.48.16:485][273]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.48.16:486][273]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks -0.619
+[2017.09.26-22.48.39:633][650]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.48.40:716][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.48.40:781][650]LogSavePackage: Save=32.57ms
+[2017.09.26-22.48.40:781][650]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block524480D54DAB033625510CBDC7EF22FA.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.48.40:788][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.49.27:506][423]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.49.28:629][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.49.28:697][423]LogSavePackage: Save=35.04ms
+[2017.09.26-22.49.28:697][423]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block6E0EC86D45EB90BCE68C268C7F10285A.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.49.28:705][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.49.29:123][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.49.29:209][445]LogSavePackage: Save=36.95ms
+[2017.09.26-22.49.29:209][445]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block53A682EB43D273D2F6F38FA6F54DEBF6.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.49.29:212][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.49.38:942][ 29]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.49.38:987][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.49.38:987][ 29]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:49:38 PM)
+[2017.09.26-22.49.38:987][ 29]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.49.38:989][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002312s)
+[2017.09.26-22.49.38:990][ 29]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.49.38:991][ 29]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2017.09.26-22.49.38:991][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003796s)
+[2017.09.26-22.49.39:021][ 29]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.49.39:028][ 29]LogInit: FAudioDevice initialized.
+[2017.09.26-22.49.39:077][ 29]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.49.39:080][ 29]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.49.39
+[2017.09.26-22.49.39:081][ 29]LogWorld: Bringing up level for play took: 0.002253
+[2017.09.26-22.49.39:081][ 29]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.49.39:082][ 29]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.49.39:084][ 29]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks -0.022
+[2017.09.26-22.49.48:906][605]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.49.50:022][605]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.49.52:098][662]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.49.52:135][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.49.52:135][662]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:49:52 PM)
+[2017.09.26-22.49.52:135][662]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.49.52:138][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2017.09.26-22.49.52:139][662]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.49.52:139][662]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2017.09.26-22.49.52:139][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003802s)
+[2017.09.26-22.49.52:170][662]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.49.52:177][662]LogInit: FAudioDevice initialized.
+[2017.09.26-22.49.52:222][662]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.49.52:225][662]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.49.52
+[2017.09.26-22.49.52:226][662]LogWorld: Bringing up level for play took: 0.002772
+[2017.09.26-22.49.52:226][662]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.49.52:227][662]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.49.52:229][662]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks -0.877
+[2017.09.26-22.49.52:934][699]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.50.00:535][145]LogEditorViewport: Clicking on Actor (LMB): lava_C (lava)
+[2017.09.26-22.50.09:689][690]BlueprintLog: New page: Compile lava
+[2017.09.26-22.50.10:309][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/lava" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/lava.uasset" SILENT=true
+[2017.09.26-22.50.10:354][709]LogSavePackage: Save=10.68ms
+[2017.09.26-22.50.10:354][709]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/lava1CA6559B421F8D9207374597FC6D1C56.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/lava.uasset'
+[2017.09.26-22.50.10:360][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/lava.uasset
+[2017.09.26-22.50.10:826][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.50.10:853][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.50.10:853][737]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:50:10 PM)
+[2017.09.26-22.50.10:854][737]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.50.10:856][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002347s)
+[2017.09.26-22.50.10:857][737]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.50.10:857][737]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2017.09.26-22.50.10:857][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003717s)
+[2017.09.26-22.50.10:886][737]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.50.10:893][737]LogInit: FAudioDevice initialized.
+[2017.09.26-22.50.10:939][737]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.50.10:942][737]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.50.10
+[2017.09.26-22.50.10:942][737]LogWorld: Bringing up level for play took: 0.002301
+[2017.09.26-22.50.10:943][737]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.50.10:945][737]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.50.10:946][737]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks -0.159
+[2017.09.26-22.50.11:421][761]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.51.23:332][ 61]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.51.24:932][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.51.24:998][ 87]LogSavePackage: Save=34.17ms
+[2017.09.26-22.51.24:998][ 87]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block2C814E5B47E430E628556898012C09FB.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.51.25:005][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.51.27:609][243]BlueprintLog: New page: Compile fall_block
+[2017.09.26-22.51.28:734][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.51.28:802][243]LogSavePackage: Save=33.62ms
+[2017.09.26-22.51.28:802][243]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_blockA80CD79840E093C94852B0BF3BA65184.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.51.28:810][243]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.51.29:068][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.51.29:143][255]LogSavePackage: Save=36.00ms
+[2017.09.26-22.51.29:143][255]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block6DDAFC0C41077CA3A5E0509E1B81E40D.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.51.29:146][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.51.30:026][308]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.51.30:065][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.51.30:066][308]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:51:30 PM)
+[2017.09.26-22.51.30:066][308]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.51.30:068][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002394s)
+[2017.09.26-22.51.30:069][308]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.51.30:070][308]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2017.09.26-22.51.30:070][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003855s)
+[2017.09.26-22.51.30:099][308]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.51.30:105][308]LogInit: FAudioDevice initialized.
+[2017.09.26-22.51.30:157][308]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.51.30:161][308]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.51.30
+[2017.09.26-22.51.30:161][308]LogWorld: Bringing up level for play took: 0.002714
+[2017.09.26-22.51.30:162][308]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.51.30:163][308]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.51.30:164][308]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 1.059
+[2017.09.26-22.51.31:313][372]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.51.52:378][627]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.51.52:404][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.51.52:404][627]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:51:52 PM)
+[2017.09.26-22.51.52:404][627]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.51.52:406][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002192s)
+[2017.09.26-22.51.52:407][627]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.51.52:408][627]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2017.09.26-22.51.52:408][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.003629s)
+[2017.09.26-22.51.52:439][627]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.51.52:445][627]LogInit: FAudioDevice initialized.
+[2017.09.26-22.51.52:495][627]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.51.52:498][627]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.51.52
+[2017.09.26-22.51.52:499][627]LogWorld: Bringing up level for play took: 0.002485
+[2017.09.26-22.51.52:499][627]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.51.52:500][627]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.51.52:503][627]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks -0.603
+[2017.09.26-22.52.23:834][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blueprints/fall_block" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset" SILENT=true
+[2017.09.26-22.52.23:899][495]LogSavePackage: Save=32.54ms
+[2017.09.26-22.52.23:899][495]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/fall_block73CBBE884250FF129BBA9EA9C571EA33.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset'
+[2017.09.26-22.52.23:902][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/blueprints/fall_block.uasset
+[2017.09.26-22.52.27:733][722]LogRenderer: Reallocating scene render targets to support 868x684 Format 10 NumSamples 1 (Frame:1).
+[2017.09.26-22.52.35:752][203]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-22.52.35:782][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-22.52.35:783][203]PIE: New page: PIE session: dropblocks (Sep 26, 2017, 4:52:35 PM)
+[2017.09.26-22.52.35:783][203]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_dropblocks
+[2017.09.26-22.52.35:786][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003360s)
+[2017.09.26-22.52.35:787][203]LogAIModule: Creating AISystem for world dropblocks
+[2017.09.26-22.52.35:788][203]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2017.09.26-22.52.35:788][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dropblocks.dropblocks to /Game/UEDPIE_0_dropblocks.dropblocks (0.005106s)
+[2017.09.26-22.52.35:816][203]LogInit: XAudio2 using 'EPSON PJ-C (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.26-22.52.35:823][203]LogInit: FAudioDevice initialized.
+[2017.09.26-22.52.35:867][203]LogLoad: Game class is 'blocksgamemode_C'
+[2017.09.26-22.52.35:871][203]LogWorld: Bringing World /Game/UEDPIE_0_dropblocks.dropblocks up for play (max tick rate 60) at 2017.09.26-19.52.35
+[2017.09.26-22.52.35:871][203]LogWorld: Bringing up level for play took: 0.002392
+[2017.09.26-22.52.35:871][203]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.09.26-22.52.35:873][203]LogBlueprintUserMessages: [block_spawner_308] bind sucess
+[2017.09.26-22.52.35:874][203]PIE: Play in editor start time for /Game/UEDPIE_0_dropblocks 0.768
+[2017.09.26-22.52.37:517][299]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property gameWidget from function: 'spawn' from node: Add Score in graph: spawn in object: spawner with description: Accessed None trying to read property gameWidget
+[2017.09.26-22.53.06:222][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/umg/startWidget" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/umg/startWidget.uasset" SILENT=true
+[2017.09.26-22.53.06:298][944]LogSavePackage: Save=40.01ms
+[2017.09.26-22.53.06:298][944]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/startWidgetC86D0662478847977FF9909E43D3A7C3.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/umg/startWidget.uasset'
+[2017.09.26-22.53.06:305][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/assets/umg/startWidget.uasset
+[2017.09.26-22.53.06:442][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dropblocks" FILE="../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.26-22.53.06:552][944]LogSavePackage: Save=53.09ms
+[2017.09.26-22.53.06:552][944]LogSavePackage: Moving '../../../../../../Users/danie/Desktop/game2d/game2d/Saved/dropblocks1C7FE3A84C61BC38A87F50905013C428.tmp' to '../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap'
+[2017.09.26-22.53.06:559][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/danie/Desktop/game2d/game2d/Content/dropblocks.umap
+[2017.09.26-22.53.06:596][944]LogFileHelpers: Saving map 'dropblocks' took 0.287
+[2017.09.26-22.53.06:747][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.26-22.53.06:805][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.26-22.53.06:911][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.26-22.53.06:967][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.26-22.53.07:223][945]Cmd: QUIT_EDITOR
+[2017.09.26-22.53.07:943][945]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.26-22.53.07:956][945]LogExit: Preparing to exit.
+[2017.09.26-22.53.08:360][945]LogDirectoryWatcher: A directory notification for 'C:/Users/danie/Desktop/game2d/game2d/Content/' was aborted.
+[2017.09.26-22.53.08:388][945]LogExit: Editor shut down
+[2017.09.26-22.53.08:397][945]LogExit: Transaction tracking system shut down
+[2017.09.26-22.53.08:524][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.26-22.53.08:524][945]LogDirectoryWatcher: A directory notification for '../../../../../../Users/danie/Desktop/game2d/game2d/Content/' was aborted.
+[2017.09.26-22.53.08:524][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.26-22.53.08:524][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.26-22.53.08:524][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.26-22.53.08:585][945]LogExit: Object subsystem successfully closed.
+[2017.09.26-22.53.08:608][945]LogD3D11RHI: Shutdown
+[2017.09.26-22.53.08:608][945]LogD3D11RHI: CleanupD3DDevice
+[2017.09.26-22.53.08:685][945]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module SequencerWidgets (540)
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (530)
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.26-22.53.08:720][945]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.26-22.53.08:720][945]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.26-22.53.08:721][945]LogDirectoryWatcher: A directory notification for 'C:/Users/danie/Desktop/game2d/game2d/Content/Collections/' was aborted.
+[2017.09.26-22.53.08:721][945]LogDirectoryWatcher: A directory notification for 'C:/Users/danie/Desktop/game2d/game2d/Content/Developers/danie/Collections/' was aborted.
+[2017.09.26-22.53.08:721][945]LogDirectoryWatcher: A directory notification for 'C:/Users/danie/Desktop/game2d/game2d/Saved/Collections/' was aborted.
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.26-22.53.08:721][945]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.26-22.53.08:722][945]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.26-22.53.08:722][945]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.26-22.53.08:722][945]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.26-22.53.08:722][945]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.26-22.53.08:722][945]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.26-22.53.08:722][945]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.26-22.53.09:022][945]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.26-22.53.09:023][945]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.26-22.53.09:086][945]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.26-22.53.09:093][945]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.26-22.53.09:094][945]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.26-22.53.09:094][945]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.26-22.53.09:094][945]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.26-22.53.09:094][945]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.26-22.53.09:094][945]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.26-22.53.09:094][945]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.26-22.53.09:095][945]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.26-22.53.09:268][945]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.26-22.53.09:269][945]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.26-22.53.09:270][945]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.26-22.53.09:371][945]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.26-22.53.09:472][945]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.26-22.53.09:472][945]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.26-22.53.09:472][945]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.26-22.53.09:472][945]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.26-22.53.09:472][945]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.26-22.53.09:472][945]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.26-22.53.09:473][945]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.26-22.53.09:476][945]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.26-22.53.09:477][945]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.26-22.53.09:552][945]LogDerivedDataCache: Shutdown
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.26-22.53.09:552][945]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.26-22.53.09:553][945]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.26-22.53.09:553][945]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.26-22.53.09:553][945]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.26-22.53.09:553][945]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE4B0B5DB-4390-A856-FF35-068A4E3A1DA3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=9c1af4bc463fc7b6c2cdedab274cb197%7C0927ba1d88bd47898e7bf8b6aa7885f0%7C0a060849-4478-44b7-92e0-ccdcf65aa9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.26-22.53.09:561][945]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.26-22.53.09:562][945]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.26-22.53.09:562][945]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.26-22.53.09:562][945]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.26-22.53.09:562][945]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.26-22.53.09:562][945]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.26-22.53.09:562][945]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.26-22.53.09:562][945]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.26-22.53.09:563][945]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.26-22.53.09:563][945]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.26-22.53.09:563][945]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.26-22.53.09:564][945]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.26-22.53.09:567][945]LogExit: Exiting.
+[2017.09.26-22.53.09:588][945]Log file closed, 09/26/17 19:53:09
